@@ -55,7 +55,7 @@
 
 .card-container {
   position: absolute;
-  width: 90vw;
+  width: 100vw;
   text-align: center;
   transition: transform 0.8s;
   transform-style: preserve-3d;
