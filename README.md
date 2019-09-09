@@ -1,3 +1,3 @@
 Memory game av Joakim Meisner
 
-Live version:
+Live version: match-cards.netlify.com

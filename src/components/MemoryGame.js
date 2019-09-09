@@ -58,7 +58,7 @@ export default class MemoryGame extends Component {
     });
     this.setState({
       finalDeck: finalDeck,
-      gameOver: false,
+      gameOver: true,
       flips: 0,
       completed: 0
     });
